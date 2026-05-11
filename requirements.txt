@@ -9,3 +9,4 @@ langchain-groq
 langchain-classic
 duckduckgo-search 
 beautifulsoup4
+langchain_tavily
